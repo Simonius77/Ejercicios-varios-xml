@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<echos-historicos>
+    <ibm echo"da a conocer el PC">
+        <año>1981</año>
+            <mes>8</mes>
+                <dia>12</dia>
+    </ibm>
+    <google echo"se funda google">
+        <año>1998</año>
+            <mes>9</mes>
+                <dia>4</dia>
+    </google>
+    <facebook "se funda facebook">
+        <año>1998</año>
+            <mes>9</mes>
+                <dia>4</dia>
+    </facebook>                        
+</echos-historicos>

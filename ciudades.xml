@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+    <pais cotinente"europa">
+        <nombre>portugal</nombre>
+            <capital>lisboa</capital>
+    </pais>
+    <pais continente"asia">
+        <nombre>india</nombre>
+            <capita>nueva delhi</capital>
+    </pais>
+    <pais continente"africa">
+        <nombre>Egipto</nombre>
+            <capital>El cairo</capital>
+    </pais>
+</ciudades> 
+    

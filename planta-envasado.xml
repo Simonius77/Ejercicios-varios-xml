@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planta-envasado>
+    <contendor>
+        <tamaño>Grande</tamaño>
+            <caracteristicas>acepta envases grandes</caracteristicas>
+        <tamaño>mediano</tamaño>
+            <caracteristicas>no acepta envases grandes</caracteristicas>
+        <orientacion>verticales</orientacion>
+            <caracteristicas>acepta envases altos</caracteristicas>
+    </contenedor>
+    <envases>
+        <tamaño>grande</tamaño>
+                <ancho>valido para alimentos</ancho>
+                <alto>valido para alimentos</alto>
+        <tamaño>mediano</tamaño>
+                <ancho>valido para alimentos</ancho>
+                <alto>resistente a sustancias corrosivas</alto>    
+        <tamaño>pequeño</tamaño>
+                <caracteristicas>resistente a sustancias corrosivas</caracteristicas>
+    </envases>
+    <liquidos>
+        <nombre>Agua</nombre>
+        <nombre>Leche</nombre>
+        <nombre>Lejia</nombre>
+        <nombre>Amoniaco</nombre>
+        <nombre>jabon</nombre>
+        <nombre>Aguarras</nombre>
+        <nombre>Gasolina</nombre>
+        <nombre>Aceite</nombre>
+        <nombre>Vinagre</nombre>
+        <nombre>Alcohol</nombre>
+    </liquidos>
+</planta-envasado>

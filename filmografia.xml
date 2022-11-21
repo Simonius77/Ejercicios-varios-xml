@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filmografia>
+    <actor>Tom Hollan</actor>
+        <personaje>Peter Parker / Spider-Man</personaje>
+            <pelicula>Captain America: Civil War</pelicula> 
+                <año>2016</año>
+                <premio>BAFTA Awards</premio>
+                <premio>Saturn Awards</premio>     
+            <pelicula>Spider-Man: Homecoming</pelicula> 
+                <año>2017</año>
+                <premio>Teen Choice Awards</premio>
+                <premio>Saturn Awards</premio>
+            <pelicula>Avengers: Infinity War</pelicula> 
+                <año>2018</año>
+            <pelicula>Avengers: Endgame</pelicula> 
+                <año>2019</año>
+            <pelicula>Spider-Man: Far From Home</pelicula>
+                <año>2019</año>
+                <premio>People's Choice Awards</premio>
+                <premio>Saturn Awards</premio>
+                <premio>Teen Choice Awards</premio>
+                <premio>Jupiter Awards</premio>
+                <premio>Kids' Choice Awards</premio>
+            <pelicula>Venom: Let There Be Carnage</pelicula>
+                <año>2021</año>
+            <pelicula>Spider-Man: No Way Home</pelicula>
+                <año>2021</año>
+        <personaje>Jack Fawcett</personaje>
+            <pelicula>La ciudad perdida de Z</pelicula>
+                <año>2016</año>
+        <personaje>Bradley Baker</personaje>
+            <pelicula>Edge of Winter</pelicula>
+                <año>2017</año>
+        <personaje>Hermano Diarmuid</personaje>
+            <pelicula>Pilgrimage</pelicula>
+                <año>2017</año>
+        <personaje>Samuel Insull</personaje>
+            <pelicula>The Current War</pelicula>
+                <año>2017</año>        
+        <personaje>Arvin Russell</personaje>
+            <pelicula>The Devil All the Time</pelicula>
+                <año>2020</año>
+        <personaje>Cherry</personaje>
+            <pelicula>Cherry</pelicula>
+                <año>2021</año>
+        <personaje>Todd Hewitt</personaje>
+            <pelicula>Chaos Walking</pelicula>
+                <año>2021</año>
+</filmografia>
